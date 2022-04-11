@@ -14,5 +14,5 @@
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "TofuNFT",
   "MARKETPLACE_LINK": "https://tofunft.com/discover/items?contracts=21623&network=137",
-  "SHOW_BACKGROUND": true
+  "SHOW_BACKGROUND": false
 }
