@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xedd435d82345935fBa2e15ca79D383c49C335B9e",
-  "SCAN_LINK": "https://polygonscan.com/token/0xedd435d82345935fBa2e15ca79D383c49C335B9e",
+  "CONTRACT_ADDRESS": "0x56D01d6273D8f3532C966A6316A2ce4EE5D0dD03",
+  "SCAN_LINK": "https://polygonscan.com/token/0x56D01d6273D8f3532C966A6316A2ce4EE5D0dD03",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Remastered Bored Apes Yacht Club Metaverse",
-  "SYMBOL": "RBAYCM",
-  "MAX_SUPPLY": 10000,
-  "WEI_COST": 5000000000000000000,
-  "DISPLAY_COST": 5,
+  "NFT_NAME": "Crypto African Women",
+  "SYMBOL": "CAFW",
+  "MAX_SUPPLY": 100000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/remastered-bored-apes-yacht-club-metaverse",
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "https://tofunft.com/discover/items?contracts=21623&network=137",
   "SHOW_BACKGROUND": true
 }
